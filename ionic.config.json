@@ -1,5 +1,7 @@
 {
   "name": "animetrackercap",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
